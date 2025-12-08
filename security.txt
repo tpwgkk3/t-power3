@@ -1,0 +1,3 @@
+Contact: mailto:support@tpower3.net
+Expires: 2030-01-01T00:00:00.000Z
+Acknowledgments: https://tpower3.net
