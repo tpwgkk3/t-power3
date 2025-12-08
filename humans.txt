@@ -1,4 +1,4 @@
 /* Team */
 Developer: TPower3 Web Team
-Website: https://tpower3.net
+Website: https://t-power3.com
 Purpose: Official TPower3 online platform
