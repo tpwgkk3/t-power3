@@ -1260,14 +1260,3 @@ button:not(:disabled) {
 	font-size: 14px;
 }
 
-.pulse {
-  display: inline-block;
-  animation: pulseAnim 1.2s ease-in-out infinite;
-}
-
-@keyframes pulseAnim {
-  0% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.12); opacity: 0.75; }
-  100% { transform: scale(1); opacity: 1; }
-}
-
