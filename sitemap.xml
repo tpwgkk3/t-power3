@@ -64,4 +64,25 @@
     <changefreq>monthly</changefreq>
   </url>
 
+  <!-- What Is TPower3 -->
+  <url>
+    <loc>https://www.t-power3.com/what-is-tpower3.html</loc>
+    <priority>0.85</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- How to Register -->
+  <url>
+    <loc>https://www.t-power3.com/how-to-register-tpower3.html</loc>
+    <priority>0.85</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Game Providers -->
+  <url>
+    <loc>https://www.t-power3.com/tpower3-game-providers.html</loc>
+    <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
 </urlset>
