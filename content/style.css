@@ -1282,7 +1282,7 @@ button:not(:disabled) {
       50% { opacity: 0.6; transform: scale(1.06); }
       100% { opacity: 1; transform: scale(1); }
     }
-<style>
+
 .login-button {
   background-color: #ce0606;
   color: white;
@@ -1324,5 +1324,5 @@ button:not(:disabled) {
 .top-bar a {
   text-decoration: none;
 }
-</style>
+
 
