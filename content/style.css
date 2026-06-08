@@ -1199,7 +1199,7 @@ button:not(:disabled) {
 
 .alert {
 	font-weight: bold;
-	color: #b30404;
+	color: #fff;
 }
 
 .hidden {
